@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CriteraVisitorBase.cs](./CS/App_Code/CriteraVisitorBase.cs) (VB: [CriteraVisitorBase.vb](./VB/App_Code/CriteraVisitorBase.vb))
+* [CriteriaHelper.cs](./CS/App_Code/CriteriaHelper.cs) (VB: [CriteriaHelper.vb](./VB/App_Code/CriteriaHelper.vb))
+* [Invoice.cs](./CS/App_Code/Models/Invoice.cs) (VB: [Invoice.vb](./VB/App_Code/Models/Invoice.vb))
+* **[Default.aspx](./CS/Default.aspx) (VB: [Default.aspx](./VB/Default.aspx))**
+* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx](./VB/Default.aspx))
+<!-- default file list end -->
 # How to filter by null and empty cell values using Filter Bar when FilterMode is DisplayText
 
 

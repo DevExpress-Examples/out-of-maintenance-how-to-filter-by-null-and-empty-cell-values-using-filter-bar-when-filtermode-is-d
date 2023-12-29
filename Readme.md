@@ -1,8 +1,3 @@
-<!-- default badges list -->
-![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/128540225/15.1.8%2B)
-[![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T314506)
-[![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
-<!-- default badges end -->
 <!-- default file list -->
 *Files to look at*:
 
@@ -13,9 +8,6 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # How to filter by null and empty cell values using Filter Bar when FilterMode is DisplayText
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t314506/)**
-<!-- run online end -->
 
 
 <p>When a header filter is used for a column and its FilterMode is set to “DisplayText”, the predefined <em><strong>“(Blanks)”</strong></em> criterion returns rows with values equal to <strong>null</strong> or <strong>empty, </strong>whereas in a grid’s Filter Bar the <em><strong>“Is blank”</strong></em> condition will not return anything. </p>
